@@ -8,3 +8,4 @@ Practicing Git using this video tutorial: https://www.youtube.com/watch?v=RGOj5y
 
 Branch Test
 uh oh
+Conflict
